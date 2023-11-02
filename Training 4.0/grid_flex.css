@@ -1,0 +1,50 @@
+body{
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-display: center;
+    color: red;
+    align-content: center;
+    text-align: center;
+}
+.box1{
+    height: 100px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.box2{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 127, 127);
+}
+.box3{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(132, 75, 75);
+}
+.box4{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(38, 14, 226);
+}
+.box5{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(3, 65, 44);
+}
+.box6{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(195, 220, 13);
+}
+.contain{
+    display: flex;
+    background-color: violet;
+    border: 4px dashed;
+    height: 200px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}

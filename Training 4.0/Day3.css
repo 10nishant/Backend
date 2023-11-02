@@ -1,0 +1,19 @@
+body{
+    background-color: skyblue;
+    display: block;
+}
+.sub{
+    height: 35px;
+    width: 100px;
+    background-color: blue;
+    color: azure;
+    font-weight: 800;
+    justify-content: center;
+}
+.as{
+    border: 3px solid palevioletred;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10%;
+    display: inline-block;
+}
